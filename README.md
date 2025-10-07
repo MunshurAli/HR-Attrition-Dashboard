@@ -50,4 +50,7 @@ The dashboard provides the following critical Key Performance Indicators (KPIs) 
 4.  Use the **Filter Panel** on the right side to slice the data by **Education Field** and **Department**.
 5.  Explore the various sections to uncover patterns and key drivers of employee turnover within the organization.
 
+   ![Uploading image.png…]()
+
+
 
